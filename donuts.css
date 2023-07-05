@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+div.column_block {
+    padding: 20px;
+    column-count: 4;
+    column-gap: 20px;
+    column-fill: auto;
+}
+
+div.column_item {
+    border-color: rgb(222, 215, 255);
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 100%;
+}
