@@ -35,7 +35,7 @@ PHP for my class exam project
     - 訂單狀態檢視及管理（user_manager.php、user_member.php）
     - 購物車功能（shop_*.php）
     - 甜甜圈系列展示（donuts.php）
-4. 使用到資料庫db_donut.sql
+4. 使用到資料庫db_donuts.sql
 5. ***影片中忘記補充：***
     - 購物車中需打勾的資訊「注意事項」可以點擊 -> 連結到「購買前必看」
     - 鼠標移動到「注意事項」上面，會顯示「點我前往」，提醒下單的人會跳轉網頁
